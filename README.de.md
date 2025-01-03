@@ -1,4 +1,4 @@
-Traum-Handwerk-3D
+dream-craft-3d
 
 # DreamCraft 3D
 
@@ -8,7 +8,7 @@ Traum-Handwerk-3D
 -   [Dokumentation](./DOCUMENTATION.md)
 -   [Glossar](./GLOSSARY.md)
 -   [Gastgeber](./HOSTS.md)
--   [Bilder](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [Gedämpft](./PODMAN.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
@@ -21,7 +21,7 @@ Erstellt mit[Ritr](https://app.rytr.me)
 
 ## 100 - Einführung
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
