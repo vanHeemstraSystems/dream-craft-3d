@@ -1,8 +1,8 @@
-Repository-Name
+Traum-Handwerk-3D
 
-# Repository-Name
+# DreamCraft 3D
 
-> Slugline
+> Erstellt ein 3D-Modell basierend auf einem 2D-Bild: Offizielle Implementierung von DreamCraft3D: Hierarchische 3D-Generierung mit Bootstrapped Diffusion Prior
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
