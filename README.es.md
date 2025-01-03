@@ -1,8 +1,8 @@
-nombre-repositorio
+artesanía-sueño-3d
 
-# Nombre del repositorio
+# Dreamcraft 3D
 
-> línea de bala
+> Crea un modelo 3D basado en una imagen 2D: Implementación oficial de DreamCraft3D: Generación 3D jerárquica con difusión previa Bootstrapped
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
