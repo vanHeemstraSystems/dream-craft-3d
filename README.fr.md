@@ -1,8 +1,8 @@
-nom du référentiel
+rêve-craft-3d
 
-# Nom du référentiel
+# DreamCraft 3D
 
-> Slugline
+> Crée un modèle 3D basé sur une image 2D : implémentation officielle de DreamCraft3D : génération 3D hiérarchique avec diffusion préalable amorcée
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@ nom du référentiel
 
 Texte
 
-Généré avec[Ritr](https://app.rytr.me)
+Generated with [Ritr](https://app.rytr.me)
 
 ## 100 - Présentation
 
@@ -33,4 +33,4 @@ Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
-Voir[README.md](./400/README.md)
+See [README.md](./400/README.md)
