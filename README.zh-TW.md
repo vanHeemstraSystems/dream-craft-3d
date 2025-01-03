@@ -1,8 +1,8 @@
-儲存庫名稱
+夢想工藝 3D
 
-# 儲存庫名稱
+# 夢幻3D
 
-> 斯拉格萊恩
+> 基於 2D 影像創建 3D 模型：DreamCraft3D 的官方實現：使用 Bootstrapped Diffusion Prior 進行分層 3D 生成
 
 -   [域名系統](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
