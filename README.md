@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+dream-craft-3d
+# DreamCraft 3D
 
-> Slugline
+> Creates a 3D Model based on a 2D Image: Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
