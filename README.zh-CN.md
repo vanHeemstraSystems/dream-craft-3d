@@ -1,8 +1,8 @@
-存储库名称
+梦想工艺 3D
 
-# 存储库名称
+# 梦幻3D
 
-> 斯拉格莱恩
+> 基于 2D 图像创建 3D 模型：DreamCraft3D 的官方实现：使用 Bootstrapped Diffusion Prior 进行分层 3D 生成
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
