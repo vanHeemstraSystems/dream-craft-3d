@@ -1,8 +1,8 @@
-repositorynaam
+droom-ambacht-3d
 
-# Naam van opslagplaats
+# DreamCraft 3D
 
-> Slaklijn
+> Creëert een 3D-model op basis van een 2D-afbeelding: Officiële implementatie van DreamCraft3D: Hiërarchische 3D-generatie met Bootstrapped Diffusion Prior
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
@@ -25,9 +25,9 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-Zien[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
-## 300 - Onze applicatie bouwen
+## 300 - Building Our Application
 
 Zien[README.md](./300/README.md)
 
