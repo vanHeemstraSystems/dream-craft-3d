@@ -1,6 +1,6 @@
 droom-ambacht-3d
 
-# DreamCraft 3D
+# DroomCraft 3D
 
 > Creëert een 3D-model op basis van een 2D-afbeelding: Officiële implementatie van DreamCraft3D: Hiërarchische 3D-generatie met Bootstrapped Diffusion Prior
 
@@ -25,9 +25,9 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-See [README.md](./200/README.md)
+Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Onze applicatie bouwen
 
 Zien[README.md](./300/README.md)
 
