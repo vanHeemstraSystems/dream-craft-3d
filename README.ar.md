@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-> سلوجلاين
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
@@ -13,7 +13,7 @@
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
