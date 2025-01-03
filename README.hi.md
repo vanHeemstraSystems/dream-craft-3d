@@ -1,11 +1,11 @@
-भंडार-नाम
+repository-name
 
 # भंडार का नाम
 
 > स्लगलाइन
 
 -   [डीएनएस](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
 -   [इमेजिस](./IMAGES.md)
