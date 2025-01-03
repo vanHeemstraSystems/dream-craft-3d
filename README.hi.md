@@ -2,7 +2,7 @@
 
 # ड्रीमक्राफ्ट 3डी
 
-> 2डी छवि के आधार पर एक 3डी मॉडल बनाता है: ड्रीमक्राफ्ट3डी का आधिकारिक कार्यान्वयन: बूटस्ट्रैप्ड डिफ्यूजन प्रायर के साथ पदानुक्रमित 3डी जेनरेशन
+> Creates a 3D Model based on a 2D Image: Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
